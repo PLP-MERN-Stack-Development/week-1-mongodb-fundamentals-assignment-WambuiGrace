@@ -131,6 +131,16 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  {
+  title: "The Book Thief",
+  author: "Markus Zusak",
+  genre: "Historical Fiction",
+  published_year: 2005,
+  price: 13.99,
+  in_stock: true,
+  pages: 552,
+  publisher: "Knopf"
   }
 ];
 
